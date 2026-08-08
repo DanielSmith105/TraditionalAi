@@ -1,0 +1,67 @@
+			Teams
+
+Software development has progressed much in the past
+thirty years. I remember writing HTML code with the
+help of a built-in Linux editor, balancing WYSIWYG
+with server-side runtime requirements such as AJAX
+or standalone Javascript. It felt similar to working
+on a bicycle before the dawn of Youtube videos. You
+had to fiddle with the parts a bit before getting it
+just right. And once you had achieved that kind of Zen
+any kind of rattle or noise during a ride simply had
+to be adjusted immediately. I had a passion for front
+end development before the term was coined. I loved
+looking at how all the CSS elements came together in 
+similar styles of art to build a public webpage, seen
+by anyone and akin to placing some canvas next to the
+Sistine Chapel. For those that remember the infamous
+smudge tool fiasco this might be especially funny!
+
+I'm not insisting that everyone needs to be a mechanic
+just to enjoy the value of riding the bicycle as a 
+means of active transportation. Personally
+I enjoy the exercise of riding a bicycle to work in the
+morning and while I still require an automobile for many
+tasks of urban living, I choose the freedom and fitness
+of starting each day slightly less convenient and luxurious
+than the roar of a modern car. After all, Weezer has been
+saying for a while that we'd be well-advanced taking our 
+surfboards to work while automobiles run out of fuel in
+traffic. 
+
+The automatic transmission
+is one such embodiment of how convenience replaced skill,
+enabling more people without technical aptitude to benefit
+easily from the freedom of travel that the automobile 
+offers. (insert story). Software is itself a major shift
+both in design and execution of how our mechanical worlds
+come together and the software industry has also shifted
+in several new directions over the years from advocacy
+and lobbying from enthusiasts and professionals. The trend
+has steadily been towards more and more automation which
+offers more and more entry to more and more people. Webpages
+can be built and maintained online, offline, with dashboards,
+text files and there's no shortage of design firms and cons-
+ulting practices which will build them for you. 
+
+I think this
+is a good approach to take when considering how to design
+your tech stack and to what extent you hire internal expertise
+or allow vibe-coding and prompt engineering to flesh out
+the inner workings of your technological requirements. You
+probably could adjust that front derailleur screw if you spent
+enough time fiddling with it, committing to the maintenance
+and misery which inevitably follows or you could hire a bicycle
+mechanic to solve it as with the ease of a well-published hard-
+cover novelist drafting an email. Agentic tools within this
+new paradigm forces us all to make decisions on how much we're
+willing to pay for convenience, how much of a craftsman we ought
+be and to what extent we're willing to follow the guidance of
+a chatbot instead of fiddling with it ourselves.
+
+Contact us now for a free consultation on how we might guide you
+in your own decision-making processes.
+
+
+
+

@@ -1,0 +1,29 @@
+            The Natural Interface
+
+A current fascination among application builders
+where the operating system wars has spawned few
+significant players with iOS, Linux, Windows, 
+Android (yes I know it's also Linux), Chrome
+OS (derivative of chromium) and Unix dominating
+computing markets worldwide is the concept of
+'natural feel'.
+
+Reactive design, pointers & gestures, touchscreens
+and the classic mouse are all examples of HCI 
+standards that we have grown accustomed to. But
+what about fire or chopping down a tree? Would it
+be possible to recreate truly natural responses
+from computers that feel more like our behaviours
+inside natural environments and its pesky controls?
+
+Certainly the world of sensors and drivers has 
+evolved into sophisticated platforms for designers.
+But the truly fascinating opportunity exists ins-
+ide our harnessing of the force unleashed with LLMs 
+like ChatGPT or Gemini. These interfaces finally 
+allow natural language sentences to be parsed as if 
+they were technical instructions going all the way 
+down to the bare metal. But just like those adjust-
+ments to your bicycle, make sure you know how to
+properly test the outcome or your bare metal might
+give way to bored metal. 

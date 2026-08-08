@@ -1,0 +1,130 @@
+	    Application or Bust?
+
+The modern application paradigm is seldom app-
+reciated beyond its own fancy graphics and high-
+priced designer fonts in contrast to the Microsoft
+Windows applications from
+which it came. For those who remember the early
+Windows 3.1 applications that were so slow to
+load that you could actually see the brute force
+instantiations happening as the foreground took
+over from the minimized state. In fact - the
+entire GUI (graphical user interface) eventually
+became synonymous with application windows as the
+reason for turning on the computer. Because fam-
+ously, Bill Gates didn't know what to do with more
+than 68 KB (kilobytes). 
+
+People eventually figured out what to do, building
+apps such as Shazam or Winamp or Spotify and those
+who stuck with the typewriters were eventually left
+behind by spell check and Britney Spears Youtube 
+videos in the background instead of living room
+records. The Windows operating system (OS) - as separate 
+from the Windows applications running on them pioneered
+an entirely new way of HCI (human computer interface)
+centred on the GUI and the file-folder-application par-
+adigm. It dealt with its fair share of abuse from
+early authors of code, programming all sorts of 'warez'
+and 'trojans' into various executables. As the name
+suggests, 'executables' are application instantiations
+built by 3rd party authors and programmers specifically
+for executing windows subroutines into user applications.
+The applications are dependent on memory, compiled GPU 
+runtime threads and HCI user input to perform tasks. As 
+a result of trusting its registry and device driver
+cybersecurity constraints, all kinds of professionals 
+gained
+certificates and diplomas towards becoming ever
+more experienced in Microsoft infrastructures, esp-
+ecially as it relates to enterprise solutions with 
+names like .NET and SharePoint. For the first time
+in history a manufacturer had opened up its product
+and allowed people all over the world to place stick-
+ers all over its operating system. It became bloated 
+with spyware,
+randomware and other scars of launching itself into
+the incredible pits of fires in GeoCities and early 
+internet HTML. 
+
+Having done away with executables, Apple next revolu-
+tionized
+the world by retailing an 'App Store' market. A secure
+totalitarian online ecosystem of Nazi-like control on any 
+and all applications were loaded atop their formidable opera-
+ting systems built for notebooks, desktops and mobile
+phones. Applications had gone from complicated IT structures
+sometimes with sticker prices in the hundreds of thousands
+for enterprise customers by Oracle or VMWare to a well-
+managed bi-directionality between Apple QA and these 3rd
+party QA teams charging $9.99 and free avatar skins with
+one-touch purchases. Increasingly relying on DevOps, Testers 
+and Architects all working together 
+in Waterfall, Agile or Skunkworks, modern sandboxed building
+teams, minimizing bugs 
+and create amazing user experiences for the world.
+
+All this came crashing down on Apple shortly after it had 
+beaten out Adobe Flash as the gateway to internet media. It
+successfully lobbyied out from the woodworks HTML5 and ceas-
+ing its support for any Flash add-ons from its browsers also
+made it less dependant on anyone or anything for its best in
+class quality. Then FBI decided that it should have unfettered 
+access to
+Apple iPhone backdoors for investigative purposes and in gathe-
+ring evidence against criminals so-called. It would have been 
+akin to warranting seizure of your photo albums, rolodex, 
+mail deliveries and even the kitchen sink if the 
+FBI was suspicious enough about your person to merit such an
+occupation of your time, during routine traffic stops as with  
+gangster drug busts. The moment this happened all applic-
+ations loaded 
+atop your smartphone would be vulnerable to these technolog-
+ical
+backdoors the FBI was demanding Apple build for them. The
+public reaction was as expected: Apple shouldn't be forced
+to do anything it deems unsafe for its devices, even if law
+enforcement believes it should have priority over the life-
+blood of modern living in digital ecosystems and online
+communities. This probably speaks volumes for the mentality
+of law enforcement over the past few centuries. Mainly we
+should trust law enforcement exactly because they have access
+to the backdoors of a city, snuffing out crimes and opport-
+unities from the nooks and cranies of jewellery stores
+and butcher shops alike. No one doubts that law enforcement prob-
+ably does have priviledged access to what is seen in a muni-
+cipality nor that it should have but somehow the logic becomes
+absurd once that access involves our personal cell pho-
+nes or browser search history.
+That one time, instead of searching for 'deviled eggs' the 
+you typoed yourself into entering 'defiled eggo' with the 
+search results spitting out all kinds of images of burned 
+toast and accusations.  
+
+Apple still hasn't fully recovered from that mess and while
+applications are nevertheless thriving communities as Youtube
+Spotify and Netflix can attest to (accounting for its attempted 
+takeover of half of Hollywood). But security and data have
+not been sorted and all kinds of people everywhere are at 
+risk of ai conversations leaking their therapy-like data to any-
+one with the checkbook to pay for it. Just like the FBI back-
+door which was itself rumoured to have been built anyway by
+some activist hackers for a few thousand dollars. It's unclear
+whether applications will remain front and center within new
+paradigms of ml modeling and ai vibe-coding but one point which
+remains emphatic is that IT systems are now shared in expert-
+ise by OEMs (original equipment manufacturers) like Apple, the 
+authors who manage the codebase and increasingly average cust-
+omers
+who can build their own agentic patches to repair the under-
+lying frictions between hardware sensors and our true intent-
+ions. These new software self-resiliences and sustainabilities 
+will 
+increasingly be with those who access to the code, open, closed 
+or provided with keys and secret handshakes to engineers qualif-
+ied to read it.
+
+As stackoverflow says it best:
+
+"There will always be a need to provide clear specifications 
+to computation devices".

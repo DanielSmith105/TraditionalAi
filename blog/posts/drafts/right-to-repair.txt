@@ -1,0 +1,81 @@
+                  Right to Repair
+
+Some technology enthusiasts might remember the secret
+ethos behind the Apple computer company. In its early
+embodiments, a few computer pioneers in late 1970s Cali-
+fornia started a 'homebrew' computer club meeting regu-
+larly to share info and promote entrepreneurship in the
+nascent markets born by computing power. Steve Jobs 
+and Steve Wozniak dedicated long hours and much debug-
+ging towards building the operating system, hardware
+motherboard and peripheral devices that eventually be-
+came the original Apple computer, Macintosh I.
+
+The two battled competing corporate interests such as
+IBM and arcade manufacturers to build out a personal
+computing market which had never existed before. The
+internet was in its early stages and they saw a busi-
+ness opportunity selling them as gateways into the
+unknown. As the story goes, Wozniak offered HP the 
+opportunity to purchase the early prototypes since
+he had used some of their technical equipment late in
+the evenings when much of the HP employees had gone
+home for the night. HP wasn't interested and in the
+spirit of respecting intellectual property rights, the
+tandem eventually also fell at odds with the homebrew 
+club, opting
+instead for official patents and privatized developments.
+Apple is well-known for superior quality but also in
+segregated silos, demanding corporate cultures and
+much secrecy that led Jobs to work even later nights
+and become partially estranged from his wife and 
+kids. The world has followed the beat of the Jobs and
+Wozniak drum and true to form, the smartphone has be-
+come increasingly as inoperable as a body part. 
+
+In contrast, bicycles have evolved into motorbikes,
+electric-assist and increased speed. The form has
+remained steadfast and the simplicity of the bicy-
+cle strong in cultures of repair, parts and self-
+sufficiency on streets worldwide. The smartphone 
+however evolved alongside tighter corporate integrations and
+massive amounts of data perfecting locked-down des-
+igns requiring specialized tools and security 
+restrictions. "Right to repair" legislation in North-
+America attempts to bargain some of this leverage
+back into the hands of independent repairers and
+consumers, especially as it relates to the rights
+and priviledges of ownership, including data. Manu-
+facturers are encouraged to release diagnostic tools
+and repair equipment, including drivers and even
+firmware updates.
+
+As we shift away from the 'homebrew' culture of hard-
+ware and into ever-increasing infrastructures built by
+IT, programming knowledge and familiarity with software
+languages takes centre stage. Vibe-coding with newly
+released large language models (LLM) such as OpenAi
+ChatGPT or Claude 3.5 allows codebases to be widdled
+and polished by all kinds of amateur enthusiasts. More
+advanced projects, incorporating offline data blobs,
+stricter processing requirements or more diversified
+weightings can be handled by experts and consulting
+firms for a pretty penny.
+
+We're somewhere in the middle of this culture, provi-
+ding knowledge and research towards developing your 
+corporate self-resilience, one brick at a time so you 
+can feel on top of your tech stack, resorting to DevOps
+only if you need to. 
+
+Reach out to us for a free consultation to discuss how
+we might help you turn your can of spaghetti into a finely-
+tuned plate of control!     
+
+
+
+
+
+
+
+ 

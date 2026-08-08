@@ -1,0 +1,72 @@
+In this article I'm going to provide a pretty technical
+review of the Tiny Llama 1.1B LLM using the CLI version 
+of the executable together with Python 3.11 on an old 
+Celeron machine, to get a feel for how this lightweight 
+LLM behaves on an older, resource sensitive Windows ope-
+rating system. Without getting too deep in the nitty-
+gritty of the installation and system requirements I give 
+a few performance metrics to set the stage:
+
+0.953125  % CPU     255.3 MB
+12.796875 % CPU     568.3 MB
+15.71875  % CPU     568.8 MB
+
+There's a really handy way to get these CPU numbers from
+any Powershell command prompt: "Get-Process llama-cli | 
+Select-Object" Just replace your own executable CLI 
+within the prompt.
+
+Some of the runtimes I created with Python ran seconds 
+to minutes depending on how intensive were the queries
+(prompts). To take a wholistic view and just a moment of
+appreciation for this community build, using exactly the
+same architecture as Llama and pretrained using data made
+by OpenAi and Hugging Face - it really is amazing that a
+software application can run offline and answer chat ques-
+tions I had about the weather in 1905. Python didn't like 
+me explicitly setting the encoding to utf-8 which didn't rec-
+ognize the celcius symbols spit out by the LLM and so I 
+spent a considerable amount of time debugging the stubborn
+answers from ChatGPT about ignoring these symbols directly
+with in-code subprocess calls.
+
+Once you get the hang of the responses from the Tiny Llama 
+1.1B (as opposed to the 70B parameters of Llama 3.1) you
+start seeing a pretty significant difference in the concis-
+ion and semantic nuance than the much larger LLMs out there
+such as DeepSeek V3 or ChatGPT 4.1. My hunch is that there's
+also much more prevalence of hallucinations with these low-
+er parameter LLMs which are flawless on basic arithmetic and
+for some reason TL 1.1B kept suggesting SAAS architectures 
+for all my technical Python questions.
+
+There are also significant differences between the number of
+tokens that can be simulated from input prompts where the
+Tiny Llama 1.1B was trained on a context window of 2048 
+tokens, meaning approximately 1500 words. Great for chat
+interfaces not great for very large coding projects. In 
+other words there are very real limitations built-in by
+the reduced context windows of this lightweight LLM that
+naturally prevents you from accidentally cataloging your
+entire registry as errant prompt engineering experiment-
+ations. This was almost enough to satisfy my curiosities
+on whether offline LLMs can access structures in the file
+system that could cause real harm to your OS. It's a 
+similar paradigm to the web browser sandbox + firewall
+which prevents websites from accessing sensitive parts of
+your hard disk, though not without some mass hysteria ar-
+ound loaded .gifs and malicious trojans. However, this
+was also the CLI version and may not behave exactly as 
+from the open source llama-cli.cpp.
+
+Overall, I would give Tiny Llama 1.1B a B+ in honour of
+its repeatability, ease of installation, modern marvel
+of offline LLMs and its few hallucinations which push
+you to your best, or else the sleep.
+
+Contact us today if you'd like a free Consultation on a
+digital Ai strategy for your organization!
+
+
+
+
