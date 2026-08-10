@@ -44,9 +44,9 @@ html = f"""<!DOCTYPE html>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{base_name}</title>
 
-    <link rel="stylesheet" href="../../style.css">
+    <link rel="stylesheet" href="../../../style.css">
     <link rel="icon" type="image/png"
-          href="../../images/icons8-search-in-browser-windows-11-color-96.png">
+          href="../../../images/icons8-search-in-browser-windows-11-color-96.png">
 </head>
 
 <body>
@@ -56,7 +56,7 @@ html = f"""<!DOCTYPE html>
 <div id="header"></div>
 
 <script>
-fetch("../../header.html")
+fetch("../../../header.html")
 .then(response => response.text())
 .then(html => {{
     document.getElementById("header").innerHTML = html;
@@ -64,15 +64,15 @@ fetch("../../header.html")
 </script>
 
 <nav>
-    <a href="../../index.html">Home</a>
-    <a href="../../index.html#about">About</a>
-    <a href="../../index.html#services">Services</a>
-    <a href="../../index.html#research">Research</a>
-    <a href="../../index.html#news">News</a>
-    <a href="../../index.html#events">Events</a>
-    <a href="../../index.html#partners">Partners</a>
-    <a href="../../index.html#contact">Contact</a>
-    <a href="../../index.html#blog" class="active">Blog</a>
+    <a href="../../../index.html">Home</a>
+    <a href="../../../index.html#about">About</a>
+    <a href="../../../index.html#services">Services</a>
+    <a href="../../../index.html#research">Research</a>
+    <a href="../../../index.html#news">News</a>
+    <a href="../../../index.html#events">Events</a>
+    <a href="../../../index.html#partners">Partners</a>
+    <a href="../../../index.html#contact">Contact</a>
+    <a href="../../../index.html#blog" class="active">Blog</a>
 </nav>
 
 <main>
@@ -106,7 +106,7 @@ unless otherwise stated.
 <div id="footer"></div>
 
 <script>
-fetch("../../footer.html")
+fetch("../../../footer.html")
 .then(response => response.text())
 .then(html => {{
     document.getElementById("footer").innerHTML = html;
