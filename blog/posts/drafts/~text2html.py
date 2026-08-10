@@ -113,6 +113,9 @@ fetch("../../../footer.html")
 }});
 </script>
 
+<script src="../../blog-posts.js"></script>
+<script src="../../blog-nav.js"></script>   
+
 </body>
 </html>
 """
