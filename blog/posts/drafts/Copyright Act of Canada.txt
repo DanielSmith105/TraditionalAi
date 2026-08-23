@@ -1,0 +1,81 @@
+Copyright Act of Canada
+
+For all the makers, artists, scientists, writers, technologists and
+engineers - the Copyright Act of Canada is a valuable resource for
+protecting certain portions and aspects of your creations.
+
+One particular passage that should be approached with care, especially
+where many IEEE 802.11ax WLAN networks (Wi-Fi) are shared and where 
+intranet message boards, user groups, wikis, file sharing, ftp 
+and even 5G social media (vs offline) storage of files and folders might one day
+be vulnerable from this kind of passage (unintentionally):
+
+"Communication to the public by telecommunication
+2.4  (1)  For the purposes of communication to the public by telecommunication,
+(a)  persons who occupy apartments, hotel rooms or
+dwelling units situated in the same building are part of the public, and
+a communication intended to be received exclusively by such persons is a
+communication to the public;"
+
+This might strike you all as not being particularly shocking of a
+statement. After all, multi-dwelling unit buildings often have common
+courtyards, atriums, lobbies and shopping which would all easily
+be considered 'public' by any sane and reasonable person. The issue
+with this passage and the reason parliament felt the need to
+distinguish private rooms, persons or guests of a multi-unit building from 
+as defined in Residential Tenancies Acts is that they didn't want to
+limit controls for Copyright holders towards enforcements of what
+constitutes an express. In other words, when does sharing 
+or a re-broadcast infringe upon enforceable standards possessed
+by these Copyright holders in order to protect how their works
+are broadcast or expressed, without their consent and especially
+when dealing with nuances of telecommunication
+technologies, contract agreements and evermore multiplex buildings
+being constructed in our cities. For instance - if a person occu-
+pying an apartment in a large building legally rents a PPV
+UFC event and decides to share the feed with friends in the build-
+ing and "received exclusively by such persons" then that would be a public
+re-broadcast contrary to the Copyright rights held by the UFC.
+
+In a way it is revealing that parliament does zone in and focus on
+'received exclusively' as being the lynchpin in that clause for how
+the term public is to be received by the reader. In fact - one could
+almost conclude they are deliberately readying the waters for how
+5G networks (which are really just Big Telecom WLAN networks) will 
+one day be widely available personal broadcast channels. This def-
+inition of public quickly shifts from a legislative one to a tech-
+nological limit which carriers and internet providers, using Ai edge
+cases might find foothold for enforcing arbitrary censorship or 
+other authoritarian measures of enhanced surveillance techniques
+that used to be the purview of state actors alone. 
+
+In one generation, the internet has opened up an entirely
+new economic regime of consensual influencers using platforms like 
+Youtube and Instagram to monetize their copyrights and shared 
+works. We are collectively better for it. 5G and artificial 
+intelligence (Ai) empowers individual copyrights 
+and opens up many new such economic regimes for which the definition 
+of public becomes front and centre towards when the legal rights 
+for instance of Meta, itself ushering in
+these new technological means of "sousveillance", so-called has its
+own definitions of what constitutes public and non-consensual. Neuraldata
+is increasingly becoming a technical term used by governments around the
+world. In essence, it is the enhanced version of DRM Datarights as applied
+to future generations of wearable devices following the footsteps of Fitbit
+like Neuralink's Blindsight or Telepathy.
+Fitbit has its own DRM and implantable health devices such as pacemakers 
+and cochlear implants have been worn by patients for decades now
+and with their own EHR standards is now more vulnerable to sophisticated new 
+network topologies that will
+blur the lines between private and public, further. Neuraldata rights might even
+find overlap with traditional copyright rights, especially when economics
+gets involved but it should at least  be mentioned in passing that 
+several modern intellectual property legal cases have revolved around
+'fair use' rights where public techno-oligarchs such as Oracle, Google and Meta
+have sought refuge to various modicums of success. Just like it would be unfair
+to disclose publicly the copyrighted protections of your favourite pastries so too
+does it matter a great deal that governments involve themselves where our definitions
+and understandings of these public terms are at risk. 
+
+
+
