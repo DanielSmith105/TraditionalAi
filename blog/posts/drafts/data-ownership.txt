@@ -3,8 +3,8 @@ Data Ownership
 Over the past few months Meta has been steadily
 rolling out its new line of glasses with front-
 facing cameras and integrated Ai assistant that
-is built around its development of the Muse Spa-
-rk model. It ushers in a future for a new realm
+is built around its development of the Muse Spark
+model. It ushers in a future for a new realm
 of intelligence about our surroundings. These 
 devices will alert us about upcoming traffic jams,
 architectural histories and other features we're
