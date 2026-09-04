@@ -1,7 +1,7 @@
 			Teams
 
 Software development has progressed much in the past
-thirty years. I remember writing HTML code with the
+thirty years. I remember writing HTML code with 
 help of a built-in Linux editor, balancing WYSIWYG
 with server-side runtime requirements such as AJAX
 or standalone Javascript. It felt similar to working
