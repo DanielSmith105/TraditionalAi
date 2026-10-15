@@ -1,98 +1,131 @@
+			State of the Internet
+
 An important aspect to remember about the internet while exuberances
-of applications and mobile supercomputers dominates our thoughts is that
-it's only been upon us for few decades now. When Newton first published
-the Principia, a work of art commonplace at the time but not officially 
-accepted by the church and meisters until 200 years later his ideas 
-and philosophy were not as widespread as even today's small fish influ-
-encers amassing thousands of likes on platforms that have un-inundated 
-villages and onto online megacities alike.
+of application and mobile supercomputers dominate our thoughts is that
+this smitany has only been upon us for a few decades now. We have more 
+shared history with caves in France than we do these new silicon virtual
+realities. That isn't to say that we should aspire to spend more time in
+caves - just that we shouldn't so easily dismiss these natural histories 
+and instead think strongly about how we choose to incorporate these new technologies 
+into our lives. When Newton first published the Principia in 1687, a work of 
+art as much as science, well-known at the time but was not 
+formally accepted by the Church until some 200 years later. Newton's ideas and 
+philosophies became popular but in absolute numbers not even as widespread 
+as today's small pond influencers amassing thousands of likes on platforms that 
+have un-inundated cobblestone villages and into tech hubs and online 
+megacities a-like. The pace of innovation has truly hit its redline at
+somewhere around 5,550 revolutions per minute. 
 
-The real difficulty with backwards compatibilities isn't so much in the 
-short term on whether or not you have to update your browser's flash pro-
-files. No it's on progressing too quickly through early adopter behaviours
-upon testing, demoing, sharing, bragging and unboxing to the race jams of
-social media fanfare which takes us out of our routines and into new esta-
-blished standards penned by tech-oligarchs, for tech-oligarchs where pu-
-blic sentiment is found somewhere in between a user and a human, unsure 
-which takes precedent. 
+One real difficulty with backwards compatibilities isn't so much in the 
+short term on whether or not one has to update the browser's flash pro-
+files. No it's much more of a human behavioural problem. On progressing too 
+quickly through the stages of innovation, early adopter behaviours such as
+upon testing, demoing, sharing, marketing and unboxing for the highlights of
+social media fanfare, does take us out of our routines and into new esta-
+blished standards made by tech-oligarchs running these companies. And upon failing to "cross the
+chasm" the regular public is stuck somewhere in between a user and a human, unsure which 
+takes precedent. In China, land of centralized economic controls, one smartphone 
+application rules them all, acting as a credit score, community payment portal and 
+social media gateway, as a reflection of society for language-agnostic tourists, 
+much like ancient waterways do fan out into thousands of streams and lakes.
 
-Much of the early internet was, as expected an emanation from the military-
-industrial-complex where academia stood as experts of pioneering languages,
-Cobol, DOS, Basic, Pearl and authors took on new meanings as information
-technology assemblers. In the words of Stackoverflow "There will always be 
-a need to communicate technical specifications clearly to computers" and
-we've gotten so much better at it, where new Ai and ml architectures have
-streamlined out much of the formalisms that once stood as the price of 
-command. Command line operations, Powershells and Terminals were quickly 
-replaced by GUI interfaces and the warm and fuzzy designs of modern sensi-
-bilities or else the maze of breadcrumbs and clickthroughs losing track 
-of the many windows or tabs or backlinks all geared towards inching us 
-closer and closer to the ad-
-vertisers given the ultramodern title of 'clickbait'.
-
-After a few decades of open-source, homebrew DIY cultures, all kinds of exp-
+Much of the early internet was, as expected an instantiation from the military-
+industrial-complex where academics stood impartially as experts of pioneering languages,
+Cobol, DOS, Basic, Pearl where these code authors took on new meanings as information
+technology assemblers. All sorts of innovations from player pianos to compilers
+were built to help experts feed instructions to these new operating systems com-
+municating to them the abstract commands of strict recipe formulas. Some elements remain
+fundamental. As Stackoverflow says "There will always be a need to communicate 
+technical specifications clearly to computers" and
+we've gotten much better at it. New IT architectures increasingly built with Ai have
+streamlined out much of this formalism which once stood as the price of command.
+It might even be akin to the wild of live conversations as opposed to the 
+formalism of strict grammar writing. Or is that spelled 'behavior'? guessing these 
+servers are hosted in the USA? Command line operations, Powershell and Terminal prompts
+were quickly replaced by
+GUI interfaces and the warm and fuzzy designs of modern sensibilities for the many or else
+the maze of breadcrumbs and clickthroughs losing track of the many windows
+or tabs or backlinks all geared towards inching us closer and closer to the ad-
+vertisers-as-clickbait web paradigm.
+While upon a few decades of open-source and homebrew DIY cultures, all kinds of exp-
 erts, artists, engineers, architects and even children are now emersed in 
-computer code as a printing press, commanding cultures of bits and bytes bet-
-ween California, Thailand and back again.
+computer code as homemade 'printing press', if one had to communicate this modernity in
+terms Newton could have understood. Commanding armies of bits and bytes bet-
+ween California, Thailand and back again, before businessmen in London have even 
+ubered their morning coffees from down the fetch - always-on cultures of internet
+activity have encircled the globe.
 
-Browsers were once the start gate of search, but now they behave much 
-differently nevertheless struggling to find a place on the new OS sudd-
-enly emphasizing natural language in handles and hooks for intellectual 
-purposes, whereby culture is both flourishing and in spotting the differences 
-between an amateur and a professional, also judgemental and if you aren't 
-entirely sure best to consult professionals. That isn't entirely fair - there 
-are all kinds of amateur musicians on Youtube who cloud probably be considered 
-professional if the right contract and agent were to to bring in the money. 
-The internet is information, culture, education, dissemination but also prison. 
+Browsers were once the start gate of the internet, but now even they behave much dif-
+ferently within this new semantic web, nevertheless struggling to find a place on the OS 
+suddenly emphasizing natural languages in handles and hooks abounded in our new intel-
+ligence era. Microsoft's Copilot lurks everlooming, ready to take charge of your 
+computations and calculations, if one chooses this paradigm over the inconvenience
+of searching for the best websites employing only a browser. Online culture is both flourishing
+economically and socially and in spotting 
+the differences between an ama-
+teur and a professional, we check popularity metrics as if democratic gold ducats. That isn't 
+entirely fair - there  are all kinds of amateur musicians on Youtube who cloud probably 
+still purchase the luxury marketing metrics with a few gold ducats. The internet is information, culture, 
+education, dissemination but also a place of business. And so some formalism remains
+and whereby hackers or professionals differ as much or as little as barristers, lawyers or soli-
+citors at law, sharing overlapping semantics used formally and also informally, if 
+one is permitted the liberty of this tongue-in-cheek comparison. While law and software
+programming share in nature this sophisticated abstraction of rules, from a software 
+engineer's perspective who expects logical sequences of output from compilers and runtime
+threads law is an utterly illogical convolution. And for good reason - humans expect
+nuances and affordabilities from professional judges evaluating reasons and evidence instead of the
+cold hard outputs of sophisticated computer compilers. In equivalence, if computer science
+wasn't built upon this predictive logic, adding new sophisticated layers of syntaxe and formalism 
+to our languages would simply be a fool's errand in obscurity and compilations. 
 
-When I was younger my parents used to tell me that if I watched too much tele-
-vision it would rot my brain. I played so many video games and watched many 
-soap operas - they almost tried to bribe me with money or else threaten the 
-looney bin if I didn't get myself bored outside for a bit with local friends. 
-Television was broadcast by our local union, making
-all sorts of deals with foreign and local networks, curating an especially apt 
-collection of Saturday morning cartoons and late-night infomercials that I managed 
-to incorporate into the background of my life, homework, dinner, telephone, books. 
-I'd almost dare to say television had taken on a life of its own. In any event, I 
-really wasn't sure how healthy it was. Occasionally distracted or
-showing up to class even more disinterested than during the Simpŝons and whereby 
-the E on that assignment really didn't make a difference in the end, as I had 
-argued it correctly at the time. The only thing more difficult than turning on a
-TV in an empty room is not paying attention to one that's on. 
+who do determine themselves 
+the best 
+approach intended by some application's declarations. Yes, much software engineering is done
+in business but code itself more closely resembles art than a manufacturing assembly line
+though both have science to thank for any disgruntled screws taking exit.
 
-It wasn't until I started living on my own, extricating myself from those childhood 
-routines I had gotten used to, experimenting with PDAs and mobile music players that
-I eventually built up the endurances of amateur boredom, aluxury enough to deal with 
-recitals and rawdogging it at the bus stop for 2 hours on a Sunday without service. 
-The point is that breaking from some routines is a necessary part of growth as a 
-human, exploring your full potential but other routines are more than healthy they be-
-come existence itself. Like coffee and a newspaper in the morning - ridding
-yourself of keyboards instead of voice Ai is a very serious consideration that people
-should not take lightly. Say what you will about the Blackberry or the Palm Pilot in 
-the face of global competition, at least they kept with tradition no less a typewriter
-than the smartphone is a person. The capitalist model is a good one and it's served us
-well for centuries, transforming ship bounties and piratic bureaucracies into downtown
-park benches and public water fountains. We believe the time is ripe for appreciating
-these new infrastructures built in crowdsourced pyramids of trust and friendship and
-paying homage to the clever scientists and engineers who brought us these new tech-
-nologies currently empowering the globe, learning our world better. Exploring the 
-Congo with Google maps instead of committing to the safari. It brings the global
-village from the couch of broadcast TV to the digital relationships we've imbued into
-laptops, mobile phones, outdated mp3 players and wearable devices showing us who we are
-at any given moment, if you'd care to look. 
+And so in this era of increasing online sophistications, children being bored outside with local friends risks becoming an extinct human 
+routine. Television shows once broadcast by local unions, in all sorts of deals with 
+foreign and local networks had at least the totalitarian decency to reserve Saturday afternoons and
+most of Sunday as especially boring time slots for the parental rule of nothing at all. 
+Homework, dinner, telephone, books
+and even dates revolved around the television-as-campfire design paradigm and was also an
+especially well-regulated activity. I dare say television had taken on a life of 
+its own within households. I really wasn't sure how healthy it was. Occasionally distracted or
+showing up to class even more disinterested than during a Simpŝons re-run and whereby the E 
+given on that assignment really didn't make a difference in the end, as I had argued it 
+correctly at the time - taking a page from Matlock's playbook, then eating a hotdog in
+celebration.
 
-For us, the benefit of building these technologies without modern shackles of profit-
-driven constrainments is also its risk - they become as ephe-
-meral as anyone's dedication to the idea, or else the marketing budgets.
+In the past 30 years, we've progressed past PDAs, Palm Pilots, mp3 players at the local
+Starbucks and all kinds of other amateur luxuries that even King John's barons would have 
+included in the Magna Carta if they could so covet. Rawdogging the bus stop for 2 hours had
+its meme glory back in 2024 but the real point is that while breaking from some routines is a necessary 
+part of growth as a human, exploring
+one's full potential - other routines are more than merely healthy they be-
+come reasons for existence itself. Like enjoying coffee and a newspaper in the morning - ridding
+oneself of keyboards instead of voice Ai is a very serious consideration that people
+should not take lightly. Say what you will about Blackberry or Palm Pilot's longevity in 
+the face of global competition, but both kept with tradition no less beyond a typewriter
+than the smartphone is a person. Capitalism has served us well, providing that which we desire for centuries,
+transforming ship bounties and piratic bureaucracies into downtown park benches and public 
+water fountains. We respect these new infra-
+structures built in crowdsourced pyramids of trust and friendship and paying homage to 
+the clever scientists and engineers who brought us the new technologies currently 
+empowering the globe, improving our collective knowledge. One can explore the Congo from Google
+Maps or start anew relationship in a group-chat-as-campfire koombaya. We've imbued this essence
+into laptops, mobile phones and wearable devices all showing us who we are, reflecting
+the world back for those who care to look. One benefit of building these technologies
+without shackles of profit-driven targetting is also its risk - nonprofits become as ephe-
+meral as any member's dedication to the idea, or else the marketing budgets.
 
-At Traditional Ai we've been building significant internet technologies for more than 30 
-years and we believe in sharing the best with our communities. The internet has changed a 
-lot during that time but humans have grown alongside it and where man and machine are now 
-locked in a dance of how to lead that which does lead itself. 
-
-Marshal McLuhan wrote about the early global electrified villages that
-"The medium is the message". The modern caveat incorporating software and Ai should be
-adjusted slightly.
+At Traditional Ai we've been building internet technologies for more than 30 years 
+and we believe in sharing the best with those communities around us. The internet has changed a 
+lot during that time but humans have grown alongside it and where man and machine 
+are now locked in a dance of how to lead that which does lead itself. Marshal McLu-
+han wrote about the global electrified villages that "The medium is the message". 
+The modern caveat incorporating software and Ai should be adjusted 
+slightly. Contact us today for a free digital consultation!
 
 
  

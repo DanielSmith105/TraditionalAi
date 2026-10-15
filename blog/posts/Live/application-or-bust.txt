@@ -1,14 +1,14 @@
 	    Application or Bust?
 
 The modern application paradigm is seldom app-
-reciated beyond its own fancy graphics and high-
-priced designer fonts in contrast to the Microsoft
-Windows applications from
-which it came. For those who remember the early
-Windows 3.1 applications that were so slow to
-load that you could actually see the brute force
-instantiations happening as the foreground took
-over from the minimized state. In fact - the
+reciated beyond infinity displays and the high-
+priced designer fonts contrasting the desktop
+windows applications and unmanageable registry keys
+from which it came. For those who remember the early
+Windows 3.1 applications that were slow enough in
+loading that you could see the brute force instant-
+iations happening as the foreground took focus 
+over the minimized state. In fact - the
 entire GUI (graphical user interface) eventually
 became synonymous with application windows as the
 reason for turning on the computer. Because fam-
@@ -22,8 +22,8 @@ behind by spell check and Britney Spears Youtube
 videos in the background instead of living room
 records. The Windows operating system (OS) - as separate 
 from the Windows applications running on them pioneered
-an entirely new way of HCI (human computer interface)
-centred on the GUI and the file-folder-application par-
+an entirely new design of HCI (human computer interface)
+centred on the GUI and a file system par-
 adigm. It dealt with its fair share of abuse from
 early authors of code, programming all sorts of 'warez'
 and 'trojans' into various executables. As the name
@@ -31,47 +31,56 @@ suggests, 'executables' are application instantiations
 built by 3rd party authors and programmers specifically
 for executing windows subroutines into user applications.
 The applications are dependent on memory, compiled GPU 
-runtime threads and HCI user input to perform tasks. As 
-a result of trusting its registry and device driver
+runtime threads and HCI user inputs to make it go. As 
+a result of trust in its registry and device driver
 cybersecurity constraints, all kinds of professionals 
 gained
 certificates and diplomas towards becoming ever
 more experienced in Microsoft infrastructures, esp-
 ecially as it relates to enterprise solutions with 
-names like .NET and SharePoint. For the first time
-in history a manufacturer had opened up its product
-and allowed people all over the world to place stick-
-ers all over its operating system. It became bloated 
-with spyware,
-randomware and other scars of launching itself into
-the incredible pits of fires in GeoCities and early 
-internet HTML. 
+platforms like .NET and SharePoint. Other OEMs (original equipment manufacturer)
+followed and opened up their products for these new digital markets,
+allowing people all over the world to place their own stick-
+ers and widgets onto operating systems and application GUIs. The
+net became full of 'skin', 'plug'ins' and 'add-ons' for the few
+who dared putting their credit cards onto some random server's
+formulaire, though admittedly not unlike some mail-order T-Shirt from the Eaton's 
+catalog of 1966. The net generally and Microsoft specifically became bloated 
+with spyware, randsomware and other battle scars of professionalism
+in-waiting, and not until the so-called "Paypal Mafia" featuring
+Elon Musk (Space-X), Peter Thiel (Y-Combinator) and others who led 
+the charge with online properties E-Bay, Paypal and LinkedIn and Yelp
+brought exactly the right fuel necessary to create approximately 300 million jobs
+in the new 'gig' economy, estimates the World Bank.
 
-Having done away with executables, Apple next revolu-
+Having done away with executable installs, Apple next revolu-
 tionized
 the world by retailing an 'App Store' market. A secure
-totalitarian online ecosystem of Nazi-like control on any 
-and all applications were loaded atop their formidable opera-
-ting systems built for notebooks, desktops and mobile
-phones. Applications had gone from complicated IT structures
+totalitarian online ecosystem of Nerds, monitoring controls on any 
+and all applications loaded atop their formidable opera-
+ting systems built on notebooks, desktops and mobile
+phones. Applications had gone from complicated IT executables
+requiring varying messes of competing software drivers,
 sometimes with sticker prices in the hundreds of thousands
-for enterprise customers by Oracle or VMWare to a well-
-managed bi-directionality between Apple QA and these 3rd
-party QA teams charging $9.99 and free avatar skins with
-one-touch purchases. Increasingly relying on DevOps, Testers 
-and Architects all working together 
-in Waterfall, Agile or Skunkworks, modern sandboxed building
-teams, minimizing bugs 
-and create amazing user experiences for the world.
+for enterprise customers of Oracle or VMWare to a well-
+managed, low-overhead market and payment portal. Apple and new 3rd
+party Dev teams began charging $9.99 for Angry Birds and 'add-on' avatar skins 
+for shiny new customers. Increasingly relying on DevOps, Testers 
+and Architects all working together in new employment conditions,
+free cafeteria food, co-working spaces, designing in Waterfall, 
+Agile or Skunkworks methodologies, within modern sandboxed development rounds
+and internal hackathons until 3am or whenever the rotten eggs
+were gone.
 
 All this came crashing down on Apple shortly after it had 
-beaten out Adobe Flash as the gateway to internet media. It
-successfully lobbyied out from the woodworks HTML5 and ceas-
+beaten out Adobe Flash as the gateway to internet media. Subsequent to
+successfully lobbying out from the woodworks HTML5 and ceas-
 ing its support for any Flash add-ons from its browsers also
-made it less dependant on anyone or anything for its best in
-class quality. Then FBI decided that it should have unfettered 
+made Apple less vulnerable and solidified its quality operating
+system started in the late 1970s, even further. The FBI then 
+decided that it should have unfettered 
 access to
-Apple iPhone backdoors for investigative purposes and in gathe-
+Apple iPhone backdoors for "investigative purposes" and in gathe-
 ring evidence against criminals so-called. It would have been 
 akin to warranting seizure of your photo albums, rolodex, 
 mail deliveries and even the kitchen sink if the 
@@ -83,9 +92,9 @@ atop your smartphone would be vulnerable to these technolog-
 ical
 backdoors the FBI was demanding Apple build for them. The
 public reaction was as expected: Apple shouldn't be forced
-to do anything it deems unsafe for its devices, even if law
+to do anything it deems unsafe on its devices, even if law
 enforcement believes it should have priority over the life-
-blood of modern living in digital ecosystems and online
+blood of modern devices inside digital ecosystems and online
 communities. This probably speaks volumes for the mentality
 of law enforcement over the past few centuries. Mainly we
 should trust law enforcement exactly because they have access
@@ -94,35 +103,34 @@ unities from the nooks and cranies of jewellery stores
 and butcher shops alike. No one doubts that law enforcement prob-
 ably does have priviledged access to what is seen in a muni-
 cipality nor that it should have but somehow the logic becomes
-absurd once that access involves our personal cell pho-
-nes or browser search history.
-That one time, instead of searching for 'deviled eggs' the 
-you typoed yourself into entering 'defiled eggo' with the 
-search results spitting out all kinds of images of burned 
-toast and accusations.  
+absurd once that access involves our personal cell phones as
+glorified family albums whereby it could be revealed that
+one time, instead of searching for 'deviled eggs' the 
+you typoed yourself into 'defiled eggo' websites with unspeakable
+amounts of butter and burned toast.
 
 Apple still hasn't fully recovered from that mess and while
-applications are nevertheless thriving communities as Youtube
+applications are nevertheless thriving in communities as Youtube
 Spotify and Netflix can attest to (accounting for its attempted 
-takeover of half of Hollywood). But security and data have
-not been sorted and all kinds of people everywhere are at 
-risk of ai conversations leaking their therapy-like data to any-
+takeover of major Hollywood studio WB). But security and data have
+not been fully sorted and all kinds of people everywhere are at 
+risk of Ai conversations leaking their therapy-like data to any-
 one with the checkbook to pay for it. Just like the FBI back-
 door which was itself rumoured to have been built anyway by
 some activist hackers for a few thousand dollars. It's unclear
 whether applications will remain front and center within new
-paradigms of ml modeling and ai vibe-coding but one point which
+paradigms of machine learning modeling and Ai vibe-coding but one point which
 remains emphatic is that IT systems are now shared in expert-
 ise by OEMs (original equipment manufacturers) like Apple, the 
-authors who manage the codebase and increasingly average cust-
+authors who manage the codebases and increasingly average cust-
 omers
-who can build their own agentic patches to repair the under-
+who can build their own agentic architectures to repair the under-
 lying frictions between hardware sensors and our true intent-
-ions. These new software self-resiliences and sustainabilities 
+ions. These new software resiliences and sustainabilities 
 will 
 increasingly be with those who access to the code, open, closed 
 or provided with keys and secret handshakes to engineers qualif-
-ied to read it.
+ied to read increasingly anti-fragile systems.
 
 As stackoverflow says it best:
 
