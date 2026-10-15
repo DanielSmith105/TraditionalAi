@@ -18,7 +18,7 @@
 <div id="header"></div>
 
 <script>
-fetch("../../header.html")
+fetch("../../../header.html")
 .then(response => response.text())
 .then(html => {
     document.getElementById("header").innerHTML = html;
@@ -26,15 +26,15 @@ fetch("../../header.html")
 </script>
 
 <nav>
-    <a href="../../index.html">Home</a>
-    <a href="../../index.html#about">About</a>
-    <a href="../../index.html#services">Services</a>
-    <a href="../../index.html#research">Research</a>
-    <a href="../../index.html#news">News</a>
-    <a href="../../index.html#events">Events</a>
-    <a href="../../index.html#partners">Partners</a>
-    <a href="../../index.html#contact">Contact</a>
-    <a href="../../index.html#blog" class="active">Blog</a>
+    <a href="../../../index.html">Home</a>
+    <a href="../../../index.html#about">About</a>
+    <a href="../../../index.html#services">Services</a>
+    <a href="../../../index.html#research">Research</a>
+    <a href="../../../index.html#news">News</a>
+    <a href="../../../index.html#events">Events</a>
+    <a href="../../../index.html#partners">Partners</a>
+    <a href="../../../index.html#contact">Contact</a>
+    <a href="../../../index.html#blog" class="button-link active">Blog</a>
 </nav>
 
 <main>
@@ -198,12 +198,15 @@ unless otherwise stated.
 <div id="footer"></div>
 
 <script>
-fetch("../../footer.html")
+fetch("../../../footer.html")
 .then(response => response.text())
 .then(html => {
     document.getElementById("footer").innerHTML = html;
 });
-</script>
+</script> 
+
+<script src="../../blog-posts.js"></script>
+<script src="../../blog-nav.js"></script> 
 
 </body>
 </html>
