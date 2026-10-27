@@ -2,11 +2,14 @@ import os
 import sys
 import shutil
 
+import re
+
 ########################################
 # Get filenames
 ########################################
 output_folder = "../Live"
 input_file = sys.argv[1]
+js_file = "../../blog-posts.js"
 
 base_name = os.path.splitext(os.path.basename(input_file))[0]
 
@@ -132,6 +135,24 @@ fetch("../../../footer.html")
 </body>
 </html>
 """
+
+with open(js_file, "r", encoding="utf-8") as f:
+    content = f.read()
+
+new_entry = f'    "{base_name}"'
+
+list = re.sub(
+    r'(const blogPosts = \[\s*)(.*?)(\s*\];)',
+    lambda m: m.group(1) + m.group(2).rstrip() +
+        ("," if m.group(2).strip() else "") +
+        "\n" + new_entry + "\n" + m.group(3),
+    content,
+    count=1,
+    flags=re.DOTALL
+)
+
+with open(js_file, "w", encoding="utf-8") as f:
+    f.write(list)
 
 with open(output_file, "w", encoding="utf-8") as outfile:
     outfile.write(html)
