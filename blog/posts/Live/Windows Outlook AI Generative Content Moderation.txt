@@ -1,0 +1,117 @@
+             Windows Outlook :
+
+There aren't many Microsoft Windows applications that are 
+more pervasive than Outlook. In the early days of email
+while Hotmail was competing with AOL for online supremacy
+Outlook was the default (offline storage) solution for many
+Windows users. Cloud computing has changed all that.
+
+The modern Outlook application can now be run in the cloud
+as part of Microsoft's 365 offering as well as a desktop
+application which inexplicably still requires an internet
+connection just to run. It would be unfair to accuse Google and all its
+Chromium devops to have converted open source browser 
+behaviours - akin to protection rackets on offline files,
+while secretly creating data-stream applications that simply
+can't be refused. Youtube, Spotify and Netflix are all ex-
+amples of these new temptations, for $10 a month and the
+irresistible buffet of Ai-curated materials. There may
+be no turning back. I can't help but hesitate when keeping
+files on my laptop in case for example it gets dammaged 
+in transit from IP address to IP address. I love to work
+at coffee shops and airports alike, adding mobility rights
+to the modern technical professional.
+
+Let me list a few significant behavioural differences be-
+tween online and offline activity, especially relevant as
+we come to depend more and more on Ai models for our careers,
+cultures and assets. After all, Kanban boards can only go so 
+far towards keeping you sane within developer tickets.  
+
+Online: 
+- Data exists atop external server computers (cloud).
+- Data is usually owned by the cloud possessor/ owner.
+- Ai/ agentic workflows can be applied instantly, think 'spell check' 
+for curating your many lives of business.
+- Security is nearly flawless, incorporating infinite entropy &redundancies
+of backups, fail-safe, disaster-recovery, etc. But searching it
+yourself might just be a nightmare.
+
+Offline:
+- Data exists atop your physical hard-drive or memory device.
+- Data is often packaged in DRM security, giving the makers
+some semblance of control and ownership or even copyright at all.
+- Security is only as good as your physical means of protection
+and the password sheets you accidentally threw out last week.
+
+
+I grew up alongside the laptop. Me and this one other kid at school 
+were the only ones sporting them, even among an entrance 
+class of software engineers and computer scientists. Yep - I'm
+kind of that old. Before Chromebooks and other thin client 
+operating systems, many laptops were competing in marketing
+categories such as ultrabooks, gaming, etc. Google was secretly
+building all these web properties such as Maps, Gmail, Docs
+and had convinced themselves of fighting with anything res-
+embling a desktop (offline) operating system. "Don't be evil" slowly
+morphed into "The web is so great". And so it is with
+great sadness that I write today about the online requirements 
+from Outlook. The other hidden subtext that I haven't touched upon
+yet is now the unmistakable fingerprint of Ai within the devil
+and the details. And this matters a great deal for our freedoms
+of expression and other secret police censorships that now go
+by the name of 'shadow bans' or 'secret committees'. Even own own
+ability to search within our inbox, sort junk mail or receive
+messages from competing interests now have probably been filtered
+and checked by an incoming spam Ai. Much of this infliction of Ai
+apon our (forced) online activities and behaviours leads to an
+inversion of our initial social contract with Email, as a res-
+source for connecting people inside of technology instead of 
+paying a price for postage. Postage is great for all kinds of 
+things but email no longer required a cost attached to it
+other than an ISP provider.   
+
+So when I came across this file on Windows upon walking through
+"13624 Microsoft.Windows.Internal.AI.ContentModeration.winmd"
+
+my file system, buried deeply inside - I was obviously concerned
+with what might be happening to all of my messages. I'm not
+insisting that Email should instead be treated as some Burqa
+of technological means to shroud one's files in secrecy, though
+these applications do exist as full-duplex channel encryptions but -
+surely there is a balance to be achieved between new data
+rights, personal privacy and the level of control desired by
+capitalist institutions ruling their techno-fiefdoms with as
+much totalitarianism as can be informally consented to for 
+$9.95 a month and a stale cookie from 1905. Back then they
+were called 'biscuits'.
+
+Just a reminder that Ai is a powerful resource but also one
+that requires paying attention and with this new sight into
+the edges of our computations we can now demand more acc-
+ountability. After all, we are paying them for exactly
+that reason. 
+
+The file structure of this mystery file is very typical of standard Windows
+terminology and is not altogether out of place among
+drivers and system commands within the 'system32' or registry entries - but
+further investigations might reveal how this particular
+file is nested inside other PIDs or executables. It did not show
+up in any processes allocated RAM but might also be buried
+inside the olk.exe (Outlook) runtime. In any event - it's certainly
+a new Windows addition and is likely a sign of its mental-
+ity going forward with Copilot in the cloud and on the desk-
+top. No one from Microsoft has volunteered an opinion on this
+or any of their online/ offline preferences but they sure are
+pushing their 365 business lines rather hard.
+
+Contact us today for a free digital consultation and learn
+how Ai might be factored into your organization's tech
+stack.
+
+
+
+
+
+
+
