@@ -139,20 +139,25 @@ fetch("../../../footer.html")
 with open(js_file, "r", encoding="utf-8") as f:
     content = f.read()
 
-new_entry = f'    "{base_name}"'
+new_entry = f'    "{base_name}.html"'
 
-list = re.sub(
-    r'(const blogPosts = \[\s*)(.*?)(\s*\];)',
+pattern = r'(const blogPosts = \[\s*)(.*?)(\s*\];)'
+
+content, count = re.subn(
+    pattern,
     lambda m: m.group(1) + m.group(2).rstrip() +
         ("," if m.group(2).strip() else "") +
-        "\n" + new_entry + "\n" + m.group(3),
+        "\n" + new_entry + "\n" + m.group(3).strip(),
     content,
     count=1,
     flags=re.DOTALL
 )
 
+if count == 0:
+    raise ValueError("Could not find the blogPosts array in the JS file.")
+
 with open(js_file, "w", encoding="utf-8") as f:
-    f.write(list)
+    f.write(content)
 
 with open(output_file, "w", encoding="utf-8") as outfile:
     outfile.write(html)

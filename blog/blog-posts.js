@@ -3,5 +3,5 @@ const blogPosts = [
     "state-of-the-internet.html",
     "application-or-bust.html",
     "tiny-llama-1p1B.html",
-    "windows-outlook-ai"
+    "windows-outlook-ai.html"
 ];
