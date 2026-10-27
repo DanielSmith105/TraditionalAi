@@ -72,12 +72,19 @@ fetch("../../../header.html")
     <a href="../../../index.html#events">Events</a>
     <a href="../../../index.html#partners">Partners</a>
     <a href="../../../index.html#contact">Contact</a>
-    <a href="../../../index.html#blog" class="active">Blog</a>
+    <a href="../../../index.html#blog" class="button-link active">Blog</a>
 </nav>
 
 <main>
 
 <section id="blog">
+    <a href="../../../blog/blog-index.html">Back to All Posts  <span id="postNumber"></span></a> 
+    
+    <div class="blog-nav">
+        <a id="prevBtn">◀ Previous</a>
+        <a id="nextBtn">Next ▶</a>
+    </div>
+<h2></h2>
 
 <h2>🔬 {title}</h2>
 
@@ -86,7 +93,13 @@ fetch("../../../header.html")
 {article}
 
 </p>
+<br>
 
+    <div class="blog-nav">
+        <a id="bot-prevBtn">◀ Previous</a>
+        <!--<span id="bot-postNumber"></span>-->
+        <a id="bot-nextBtn">Next ▶</a>
+    </div>    
 </section>
 
 <section id="legal">
