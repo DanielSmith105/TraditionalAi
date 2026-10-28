@@ -206,7 +206,7 @@ with open(js_file, "r", encoding="utf-8") as f:
     array_content = ",\n".join(f'    "{entry}"' for entry in entries)
 
     content = (
-        match.group(1)
+        match.group(1).rstrip()
         + "\n"
         + array_content
         + "\n"

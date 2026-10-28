@@ -1,5 +1,4 @@
 const blogPosts = [
-    
     "windows-outlook-ai.html",
     "technology-labyrinths.html",
     "state-of-the-internet.html",
