@@ -5,13 +5,13 @@ import shutil
 import re
 
 ########################################
-# Get filenames
+#####  Get andd Set filenames
 ########################################
 output_folder = "../Live"
-input_file = sys.argv[1]
+input_file = sys.argv[1] if len(sys.argv) > 1 else input("Enter filename: ")
+base_name = os.path.splitext(os.path.basename(input_file))[0]
 js_file = "../../blog-posts.js"
 
-base_name = os.path.splitext(os.path.basename(input_file))[0]
 
 title = (
     base_name
@@ -19,15 +19,36 @@ title = (
     .replace("_", " ")   # underscores -> spaces
     .title()             # Capitalize words
 )
-output_file = os.path.join(output_folder, base_name + ".html")
 
-destination = os.path.join(
-    output_folder,
-    os.path.basename(input_file)
-)
+destination_html = os.path.join(output_folder, base_name + ".html")
+destination_txt = os.path.join(output_folder, os.path.basename(input_file))
 
 ########################################
-# Read article
+#### Error Handling (overwrite) 
+########################################
+
+existing_files = [
+    path for path in (destination_html, destination_txt)
+    if os.path.exists(path)
+]
+
+if existing_files:
+    print("The following files already exist:")
+    for path in existing_files:
+        print(f"  {path}")
+
+    try:
+        response = input("Overwrite existing files? (y/n): ").strip().lower()
+    except (KeyboardInterrupt, EOFError):
+        print("\nOperation cancelled.")
+        raise SystemExit(1)
+
+    if response != "y":
+        print("Operation cancelled.")
+        raise SystemExit(0)
+
+########################################
+####    Read article into HTML
 ########################################
 
 with open(input_file, "r", encoding="utf-8") as infile:
@@ -136,32 +157,64 @@ fetch("../../../footer.html")
 </html>
 """
 
+############################################
+####  HTML Loaded now some file handling 
+############################################
+
+with open(destination_html, "w", encoding="utf-8") as outfile: outfile.write(html)
+shutil.move(input_file, destination_txt)
+
+#### "article.html" was created and moved to 'Live' ####
+
 with open(js_file, "r", encoding="utf-8") as f:
     content = f.read()
+#
+ #   new_entry = f'    "{base_name}.html"'
+#
+ #   pattern = r'(const blogPosts = \[\s*)(.*?)(\s*\];)'
+#
+ #   content, count = re.subn(
+  #      pattern,
+   #     lambda m: m.group(1) + m.group(2).rstrip() +
+    #        ("," if m.group(2).strip() else "") +
+   #         "\n" + new_entry + "\n" + m.group(3).strip(),
+   #     content,
+   #     count=1,
+   #     flags=re.DOTALL
+   # )
 
-new_entry = f'    "{base_name}.html"'
+    # if count == 0:
+    #    raise ValueError("Could not find the blogPosts array in the JS file.")
 
-pattern = r'(const blogPosts = \[\s*)(.*?)(\s*\];)'
+############### test ####
+    pattern = r'(const blogPosts = \[\s*)(.*?)(\s*\];)'
+    match = re.search(pattern, content, flags=re.DOTALL)
 
-content, count = re.subn(
-    pattern,
-    lambda m: m.group(1) + m.group(2).rstrip() +
-        ("," if m.group(2).strip() else "") +
-        "\n" + new_entry + "\n" + m.group(3).strip(),
-    content,
-    count=1,
-    flags=re.DOTALL
-)
+    if not match:
+        raise SystemExit("Could not find the blogPosts array in the JS file.")
 
-if count == 0:
-    raise ValueError("Could not find the blogPosts array in the JS file.")
+    new_entry = f'"{base_name}.html"'
+    entries = re.findall(r"""["']([^"']+\.html)["']""", match.group(2))
 
-with open(js_file, "w", encoding="utf-8") as f:
-    f.write(content)
+    # Remove existing copies of this filename
+    entries = [entry for entry in entries if entry != f"{base_name}.html"]
 
-with open(output_file, "w", encoding="utf-8") as outfile:
-    outfile.write(html)
+    # Add it once at the beginning
+    entries.insert(0, f"{base_name}.html")
 
-shutil.move(input_file, destination)
+    # Rebuild the array
+    array_content = ",\n".join(f'    "{entry}"' for entry in entries)
+
+    content = (
+        match.group(1)
+        + "\n"
+        + array_content
+        + "\n"
+        + match.group(3).strip()
+    )
+
+with open(js_file, "w", encoding="utf-8") as f: f.write(content)
+
+####  blog-posts.js has been appended!  ####
 
 print("Finished converting.")

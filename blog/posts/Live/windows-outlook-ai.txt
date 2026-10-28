@@ -1,6 +1,6 @@
              Windows Outlook :
 
-There aren't many Microsoft Windows applications that are 
+There aren't many Microsoft Windows applications which are 
 more pervasive than Outlook. In the early days of email
 while Hotmail was competing with AOL for online supremacy
 Outlook was the default (offline storage) solution for many
@@ -20,7 +20,7 @@ be no turning back. I can't help but hesitate when keeping
 files on my laptop in case for example it gets dammaged 
 in transit from IP address to IP address. I love to work
 at coffee shops and airports alike, adding mobility rights
-to the modern technical professional.
+to the modern technical professional office experience.
 
 Let me list a few significant behavioural differences be-
 tween online and offline activity, especially relevant as
@@ -60,20 +60,22 @@ from Outlook. The other hidden subtext that I haven't touched upon
 yet is now the unmistakable fingerprint of Ai within the devil
 and the details. And this matters a great deal for our freedoms
 of expression and other secret police censorships that now go
-by the name of 'shadow bans' or 'secret committees'. Even own own
-ability to search within our inbox, sort junk mail or receive
-messages from competing interests now have probably been filtered
-and checked by an incoming spam Ai. Much of this infliction of Ai
+by the name of 'shadow bans' or 'doxing'. Phishing used to be a 
+simple email from an obviously Nigerian prince. It's gotten so 
+elaborate that I'm not entirely sure whether I am in the wrong line 
+of work. Even own own ability to search within our inbox, sort junk 
+mail or receive messages from competing interests, have all probably been filtered
+and checked by an incoming spam-trained Ai model. Much of this infliction of Ai
 apon our (forced) online activities and behaviours leads to an
-inversion of our initial social contract with Email, as a res-
+inversion of our initial social contract with these tools. Email, as a res-
 source for connecting people inside of technology instead of 
-paying a price for postage. Postage is great for all kinds of 
-things but email no longer required a cost attached to it
-other than an ISP provider.   
+paying a price for postage. Postage is still great for all kinds of 
+things but email no longer required us to pay a cost, attached to it
+other than an ISP provider.  
+
+"13624 Microsoft.Windows.Internal.AI.ContentModeration.winmd" 
 
 So when I came across this file on Windows upon walking through
-"13624 Microsoft.Windows.Internal.AI.ContentModeration.winmd"
-
 my file system, buried deeply inside - I was obviously concerned
 with what might be happening to all of my messages. I'm not
 insisting that Email should instead be treated as some Burqa
@@ -83,18 +85,17 @@ surely there is a balance to be achieved between new data
 rights, personal privacy and the level of control desired by
 capitalist institutions ruling their techno-fiefdoms with as
 much totalitarianism as can be informally consented to for 
-$9.95 a month and a stale cookie from 1905. Back then they
-were called 'biscuits'.
+$9.95 a month and a side order of fries. 
 
 Just a reminder that Ai is a powerful resource but also one
-that requires paying attention and with this new sight into
-the edges of our computations we can now demand more acc-
+that requires us paying attention and with this new sight into
+the edges of our computations we can also demand more acc-
 ountability. After all, we are paying them for exactly
 that reason. 
 
-The file structure of this mystery file is very typical of standard Windows
-terminology and is not altogether out of place among
-drivers and system commands within the 'system32' or registry entries - but
+The file structure of this mysterious file is very typical of standard Windows
+structures and is not altogether out of place among
+drivers and system commands within 'system32' or registry entries - but
 further investigations might reveal how this particular
 file is nested inside other PIDs or executables. It did not show
 up in any processes allocated RAM but might also be buried
@@ -106,7 +107,7 @@ or any of their online/ offline preferences but they sure are
 pushing their 365 business lines rather hard.
 
 Contact us today for a free digital consultation and learn
-how Ai might be factored into your organization's tech
+how Ai might carefully be factored into your organization's tech
 stack.
 
 

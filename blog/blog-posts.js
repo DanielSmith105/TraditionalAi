@@ -1,8 +1,8 @@
 const blogPosts = [
+    
+    "windows-outlook-ai.html",
     "technology-labyrinths.html",
     "state-of-the-internet.html",
     "application-or-bust.html",
-    "tiny-llama-1p1B.html",
-    "windows-outlook-ai.html",
-    "you-have-gone-too-far.html"
+    "tiny-llama-1p1B.html"
 ];
