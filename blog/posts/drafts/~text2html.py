@@ -4,6 +4,8 @@ import shutil
 
 import re
 
+from datetime import date
+
 ########################################
 #####  Get andd Set filenames
 ########################################
@@ -168,7 +170,8 @@ shutil.move(input_file, destination_txt)
 
 with open(js_file, "r", encoding="utf-8") as f:
     content = f.read()
-#
+
+#### previous (working) code ####
  #   new_entry = f'    "{base_name}.html"'
 #
  #   pattern = r'(const blogPosts = \[\s*)(.*?)(\s*\];)'
@@ -186,21 +189,23 @@ with open(js_file, "r", encoding="utf-8") as f:
     # if count == 0:
     #    raise ValueError("Could not find the blogPosts array in the JS file.")
 
-############### test ####
+#### new test code ####
+
     pattern = r'(const blogPosts = \[\s*)(.*?)(\s*\];)'
     match = re.search(pattern, content, flags=re.DOTALL)
 
     if not match:
         raise SystemExit("Could not find the blogPosts array in the JS file.")
 
-    new_entry = f'"{base_name}.html"'
+    month_and_year = date.today().strftime("%m-%Y")
+    new_entry = f'"{month_and_year} {base_name}.html"'
     entries = re.findall(r"""["']([^"']+\.html)["']""", match.group(2))
 
     # Remove existing copies of this filename
     entries = [entry for entry in entries if entry != f"{base_name}.html"]
 
     # Add it once at the beginning
-    entries.insert(0, f"{base_name}.html")
+    entries.insert(0, f{new_entry})
 
     # Rebuild the array
     array_content = ",\n".join(f'    "{entry}"' for entry in entries)
